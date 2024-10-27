@@ -1,1 +1,5 @@
-- 👋 Hi, I’m @LIZARD-OFFICIAL-77
+Teenager with ADHD
+
+- I honestly don't know...
+
+[Scratch](https://scratch.mit.edu/users/LIZARD_OFFICIAL)
