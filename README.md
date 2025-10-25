@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github.com/stevemats/stong/blob/master/Rotating_cube_SMIL.svg?raw=true');]{x0000}$}
+```
+
 <!--
 **LIZARD-OFFICIAL-77/LIZARD-OFFICIAL-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github.com/stevemats/stong/blob/master/Rotating_cube_SMIL.svg?raw=true');]{x0000}$}$$
+
