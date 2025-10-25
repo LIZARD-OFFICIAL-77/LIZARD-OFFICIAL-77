@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This text won't be visible with the [Github CSS userscript](https://github.com/LIZARD-OFFICIAL-77/LIZARD-OFFICIAL-77/edit/development/README.md)
 <div id="css-injection">
   <p id="css">
-    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.6;}}}}$
+    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.6;}}}}$
   </p>
 </div>
 
