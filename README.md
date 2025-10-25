@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+This text won't be visible with the [Github CSS userscript](https://github.com/LIZARD-OFFICIAL-77/LIZARD-OFFICIAL-77/edit/development/README.md)
 <div id="css-injection">
-  This text won't be visible with the Github CSS userscript
   <p id="css">
     $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://user-images*dot*githubusercontent*dot*com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237*dot*png?raw=true');}}}}$
   </p>
