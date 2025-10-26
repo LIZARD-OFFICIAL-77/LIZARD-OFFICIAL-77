@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   This text won't be visible with the 
   <div href="https://youtube.com">Github CSS userscript</div>
   <p id="css">
-    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.6; background: url("https://user-images*dot*githubusercontent*dot*com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237*dot*png?raw=true")}}}}$
+    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ font-color: red )}}}}$
   </p>
 </div>
 
