@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   This text won't be visible with the 
   <div href="https://youtube.com">Github CSS userscript</div>
   <p id="css">
-    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ background-color: red )}}}}$
+    $\color{rgb(0,0,0)}{\textsf{\tiny{\textsf{ background-color: red }}}}$
   </p>
 </div>
 
